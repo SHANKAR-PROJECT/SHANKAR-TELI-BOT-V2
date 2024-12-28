@@ -1,12 +1,12 @@
 const fs = require('fs');
 const axios = require('axios');
-const login = require('fca-shankar-bot');
+const login = require('fca-new-shankar');
 
 module.exports.config = {
   name: "convo",
   version: "1.0",
   hasPermssion: 2,
-  author: "SHANKAR",
+  author: "dipto",
   description: "goi bot no prefix baby",
   commandCategory: "fun",
   usages: "!goibot start / !goibot off",
