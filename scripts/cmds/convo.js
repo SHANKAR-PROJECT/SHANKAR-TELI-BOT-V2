@@ -1,6 +1,6 @@
 const fs = require('fs');
 const axios = require('axios');
-const login = require('fca-new-shankar');
+const login = require('fca-shankar-bot');
 
 module.exports.config = {
   name: "convo",
